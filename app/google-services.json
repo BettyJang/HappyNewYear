@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "709163889847",
+    "firebase_url": "https://happynewyear-81d13.firebaseio.com",
+    "project_id": "happynewyear-81d13",
+    "storage_bucket": "happynewyear-81d13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709163889847:android:057ef0357eb21f4f",
+        "android_client_info": {
+          "package_name": "com.example.user.happynewyear"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709163889847-6h7anr7g8hd18kggnuhq87bejbeuc66k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.happynewyear",
+            "certificate_hash": "5f0313e1d6c8f42c86b021fa2de4ba76c28a57bc"
+          }
+        },
+        {
+          "client_id": "709163889847-1d9fgt90o1859mahdcsruuv84oolar4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB279i-GFIlk-Z_o1AB3pBLs9dh11i0Prw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709163889847-1d9fgt90o1859mahdcsruuv84oolar4t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
